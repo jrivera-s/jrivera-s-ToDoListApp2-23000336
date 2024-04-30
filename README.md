@@ -1,6 +1,6 @@
-# ToDoListApp-23000336
+# ToDoListApp2-23000336
 Eduardo Javier Rivera Solorzano
-Actividad 1 - Curso "Desarrollo de Aplicaciones Web - Sección A"
+Actividad 2 - Curso "Desarrollo de Aplicaciones Web - Sección A"
 
 # Aplicación de Lista de Tareas y Metas Personales
 
